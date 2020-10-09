@@ -31,12 +31,28 @@
 
 
 
-#### I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: (s). You will find projects here in :java:
+#### I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: (s). You will find projects here in -
 
-- 🔭 I’m currently working on springboot projects  <code><img height="30" src=""></code>
+**Languages and Tools:** 
+
+![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
+![Spring](https://img.shields.io/static/v1?message=Spring&logo=Spring&labelColor=green&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/static/v1?message=Javascript&logo=javascript&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&labelColor=5c5c5c&color=1182c3)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-- 🌱 I’m currently learning microservices patterns & reactJs <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- 🔭 I’m currently working on springboot projects  <code><img height="20" src="https://img.shields.io/badge/-SPRINGBOOT-black?logo=SPRING&style=social"></code>
+
+
+- 🌱 I’m currently learning microservices patterns & reactJs <code><img height="20" src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></code>
 - 💬 Ask me about anything, happy to help.
 
 
