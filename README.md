@@ -19,7 +19,7 @@
 
 <p align="center" >
   <a href="">
-    <img align="center" alt="Loading" height="350px" width="100%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
+    <img align="center" alt="Loading" height="250px" width="100%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
   </a>
 </p>
 
@@ -39,6 +39,12 @@ I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: 
 
 - 🌱 I’m currently microservices patterns & reactJs <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - 💬 Ask me about anything, happy to help.
+
+
+
+<div>
+   <img align="right" alt="me" height="250px" width="40%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
+</div>
 <!--
 **ishandas387/ishandas387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
