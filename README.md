@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center" style="margin: -20px 0 30px">
+
 <a href="https://www.linkedin.com/in/ishan-das-28819064/">
   <img align="center" alt="Ishan's LinkedIn" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,15 +13,13 @@
 <a href="https://www.instagram.com/insta.ishan/">
   <img align="center" alt="Ishan's Instagram" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  &nbsp;&nbsp;
 
-</p>
 
 
 
 <p align="center" >
   <a href="">
-    <img align="center" alt="Loading" height="350px" width="100%" src="https://github.com/ishandas387/ishandas387/blob/master/loading.gif" />
+    <img align="center" alt="Loading" height="350px" width="100%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
   </a>
 </p>
 
