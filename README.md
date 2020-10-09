@@ -1,23 +1,38 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<p align="center" style="margin: -20px 0 30px">
 <a href="https://www.linkedin.com/in/ishan-das-28819064/">
-  <img align="center" alt="Ishan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Ishan's LinkedIn" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+  &nbsp;&nbsp;
+  <a href="" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
 <a href="https://www.instagram.com/insta.ishan/">
-  <img align="center" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Ishan's Instagram" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+  &nbsp;&nbsp;
+
+</p>
+
+
+
+<p align="center" >
+  <a href="">
+    <img align="center" alt="Loading" height="350px" width="100%" src="https://github.com/ishandas387/ishandas387/blob/master/loading.gif" />
+  </a>
+</p>
+
+
+
 </br>
 </br>
 
 
-<div>
-   <img align="center" alt="Loading" height="250px" width="250px" src="https://github.com/ishandas387/ishandas387/blob/master/loading.gif" />
-</div>
 
 
-</br>
-</br>
 
 I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: (s). You will find projects here in :java:
 
