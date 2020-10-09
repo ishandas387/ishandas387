@@ -7,6 +7,14 @@
 <a href="https://www.instagram.com/insta.ishan/">
   <img align="center" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</br>
+</br>
+
+
+<div>
+   <img align="center" alt="Loading" height="250px" width="250px" src="https://github.com/ishandas387/ishandas387/blob/master/loading.gif" />
+</div>
+
 
 </br>
 </br>
