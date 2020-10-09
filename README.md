@@ -19,7 +19,7 @@
 
 <p align="center" >
   <a href="">
-    <img align="center" alt="Loading" height="250px" width="100%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
+    <img align="center" alt="Loading" height="150px" width="70%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 
 
-I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: (s). You will find projects here in :java:
+#### I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: (s). You will find projects here in :java:
 
 - 🔭 I’m currently working on springboot projects  <code><img height="30" src=""></code>
 
