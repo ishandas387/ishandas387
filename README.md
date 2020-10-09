@@ -2,12 +2,13 @@
 
 
 <a href="https://www.linkedin.com/in/ishan-das-28819064/">
-  <img align="left" alt="Ishan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Ishan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/insta.ishan/">
-  <img align="left" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Ishan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+</br>
 </br>
 
 I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: (s). You will find projects here in :java:
