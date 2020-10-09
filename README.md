@@ -43,7 +43,7 @@ I'm a software engineer 🚀 from India who likes to experiment & :heart: :dog: 
 
 
 <div>
-   <img align="right" alt="me" height="250px" width="40%" src="https://github.com/ishandas387/ishandas387/blob/master/XKnzuOh.gif" />
+   <img align="right" alt="me" height="250px" width="40%" src="https://github.com/ishandas387/ishandas387/blob/master/0_gqO3slLmGb4mUeje.gif" />
 </div>
 <!--
 **ishandas387/ishandas387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
