@@ -43,13 +43,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&labelColor=5c5c5c&color=1182c3)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-- 🔭 I’m currently working on springboot projects  <code><img height="20" src="https://img.shields.io/badge/-SPRINGBOOT-black?logo=SPRING&style=social"></code>
+- 🔭 I’m currently working on springboot projects  <code><img height="20" src="https://img.shields.io/static/v1?message=SpringBoot&logo=Spring&labelColor=green&color=1182c3&logoColor=white&label=%20"></code>
 
 
 - 🌱 I’m currently learning microservices patterns & reactJs <code><img height="20" src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></code>
