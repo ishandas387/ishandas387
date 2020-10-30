@@ -49,7 +49,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-- 🔭 I’m generally work as a backend engineer with springboot projects <code><img height="20" src="https://img.shields.io/static/v1?message=SpringBoot&logo=Spring&labelColor=green&color=1182c3&logoColor=white&label=%20"></code>
+- 🔭 I generally work as a backend engineer with springboot projects, in addition to SpringData-Oracle-AWS <code><img height="20" src="https://img.shields.io/static/v1?message=SpringBoot&logo=Spring&labelColor=green&color=1182c3&logoColor=white&label=%20"></code>
 
 
 - 🌱 I’m currently learning microservices patterns & reactJs <code><img height="20" src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></code>
