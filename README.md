@@ -53,10 +53,9 @@
 
 
 - 🌱 I’m currently learning microservices patterns & reactJs <code><img height="20" src="https://img.shields.io/static/v1?
- message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></code>
+message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></code>
  
-- 🌱 Also enthusiastic about applied ML and data analytics with <code><img height="20" src="https://img.shields.io/static/v1?
- message=Python&logo=Python&labelColor=violet&color=1182c3&logoColor=white&label=%20"></code>
+- 🌱 Also enthusiastic about applied ML and data analytics with <code><img height="20" src="https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=violet&color=1182c3&logoColor=white&label=%20"></code>
  
 - 💬 Ask me about anything, happy to help.
 
