@@ -42,7 +42,7 @@
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&labelColor=5c5c5c&color=1182c3)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/static/v1?message=jQuery&logo=jQuery&labelColor=yellow&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
