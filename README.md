@@ -37,14 +37,14 @@
 
 ![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/static/v1?message=Spring&logo=Spring&labelColor=green&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
+![Python](https://img.shields.io/static/v1?message=Pyhton&logo=javascript&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/static/v1?message=Javascript&logo=javascript&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&labelColor=5c5c5c&color=1182c3)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/static/v1?message=jQuery&logo=jQuery&labelColor=yellow&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=Bootstrap&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![Oracle](https://img.shields.io/static/v1?message=Oracle&logo=Oracle&labelColor=orange&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
-![Oracle](https://img.shields.io/static/v1?message=MongoDb&logo=MongoDB&labelColor=orange&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
+![Mongo](https://img.shields.io/static/v1?message=MongoDb&logo=MongoDB&labelColor=green&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
