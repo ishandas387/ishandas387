@@ -37,7 +37,7 @@
 
 ![Java](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/static/v1?message=Spring&logo=Spring&labelColor=green&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
-![Python](https://img.shields.io/static/v1?message=Pyhton&logo=javascript&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
+![Python](https://img.shields.io/static/v1?message=Pyhton&logo=Python&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/static/v1?message=Javascript&logo=javascript&labelColor=red&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&labelColor=5c5c5c&color=1182c3)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)&nbsp;&nbsp;
