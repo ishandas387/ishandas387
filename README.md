@@ -57,7 +57,7 @@
  
 - 🌱 Also enthusiastic about applied ML and data analytics with <code><img height="20" src="https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=violet&color=1182c3&logoColor=white&label=%20"></code>
  
-- :book: Currently reading - Designing data intensive application.
+- :book: Currently reading - Designing data intensive applications.
 
 - 💬 Ask me about anything, happy to help.
 
